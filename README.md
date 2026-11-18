@@ -35,7 +35,7 @@ The main goal of this project is not only to calculate results, but also to help
 | Area | Technology |
 |---|---|
 | Programming Language | Python 3.10+ |
-| GUI Framework | Flet |
+| GUI Framework | Flut |
 | UI Foundation | Flutter-powered interface through Flet |
 | Core Concept | Stack data structure, LIFO |
 
