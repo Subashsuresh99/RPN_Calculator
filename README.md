@@ -4,7 +4,7 @@ A Python-based GUI calculator that demonstrates **Reverse Polish Notation (RPN)*
 
 ## Overview
 
-This project implements a fully functional RPN calculator using **Python** and **Flet**, a Flutter-powered Python framework for building interactive user interfaces.
+This project implements a fully functional RPN calculator using **Python** and **Flutter**, a Flutter-powered Python framework for building interactive user interfaces.
 
 Unlike a normal calculator, an RPN calculator uses postfix notation, where operators come after operands. For example:
 
